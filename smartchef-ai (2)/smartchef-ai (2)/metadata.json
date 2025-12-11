@@ -1,0 +1,5 @@
+{
+  "name": "SmartChef AI",
+  "description": "An intelligent recipe and ingredient list generator powered by Gemini 2.5 Flash. Instantly creates detailed shopping lists and cooking instructions for any dish.",
+  "requestFramePermissions": []
+}
